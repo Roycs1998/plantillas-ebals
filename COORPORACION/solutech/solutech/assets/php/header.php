@@ -74,7 +74,7 @@
 											<nav class="solutech_menu main-search-menu">					
 												<ul class="sub-menu">
 													<li class="menu-item-has-children">
-														<a href="#">Marcas</a>
+														<a href="#">Nuestras Marcas</a>
 														<ul class="sub-menu">
 															<li><a href="pricing-plan.html">Pricing Plan</a></li>
 															<li><a href="why-choose-us.html">Why Choose Us</a></li>	

@@ -1340,12 +1340,12 @@
          width: 100% !important;
     }
      .witr_swiper_area .text-left .slider_vd_icon {
-         right: 37% !important;
-         top: 12% !important;
+         right: 34% !important;
+         top: 16% !important;
     }
      .witr_swiper_area .text-right .slider_vd_icon {
-         left: 40% !important;
-         top: 12% !important;
+         left: 34% !important;
+         top: 16% !important;
     }
      .witr_swiper_area .text-center .slider_vd_icon {
          top: 12%;
@@ -2520,7 +2520,7 @@
          padding: 50px 11px 50px;
     }
      .swiper2 .witr_swiper_content h2, .swiper2 .witr_swiper_content h3 {
-         font-size:25px;
+         font-size:25px !important;
          line-height:1.4;
     }
      .accordion_area.faq2 {

@@ -15,13 +15,7 @@
 					<div class="brpt">
 						<h2>Contacto</h2>
 					</div>
-					<div class="breadcumb-inner">
-						<ul>
-							<li><a href="inicio">Inicio</a></li>
-							<li><i class="fas fa-angle-right"></i></li>
-							<li><?php echo $pagina;?></li>
-						</ul>						
-					</div>
+
 				</div>
 			</div>
 		</div>
