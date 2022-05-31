@@ -8351,7 +8351,7 @@ a{
 }
  .breadcumb-area {
      padding: 150px 0px;
-     background-image: url(../images/imagen_1.jpg);
+     background-image: url(../images/fondo.jpg);
      background-position: center center;
      background-repeat: no-repeat;
      position: relative;
@@ -8364,7 +8364,7 @@ a{
      right: 0;
      bottom: 0;
      content: "";
-     background-color:#00000099;
+     background-color:#153d7ab0;
 }
  .breadcumb-inner ul {
      font-weight: 600;
@@ -8573,7 +8573,7 @@ a{
  .witrfm_area {
      background-repeat: no-repeat;
      background-position: center center;
-     background-image: url(../images/blog9.jpg);
+     background-image: url(../images/fondo.jpg);
      background-size: cover;
      position:relative;
 }
@@ -8586,7 +8586,7 @@ a{
      left: 0;
      right: 0;
      margin: auto;
-     background:#153d7af2;
+     background:#153d7ab0;
 }
  .footer-middle {
      padding: 65px 0 73px;
@@ -11222,7 +11222,7 @@ a{
     height: 752px;
     position:relative;
     background-size: cover;
-    background-position: center center;
+    background-position: top center;
 }
 
 
@@ -11239,6 +11239,7 @@ a{
      top:0px;
      right:0px;
      bottom:0px;
+     background: #ffffff63;
 }
  .wittr_gallery_swiper {
      position:relative;

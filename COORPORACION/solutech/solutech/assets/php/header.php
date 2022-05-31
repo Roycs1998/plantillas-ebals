@@ -39,24 +39,9 @@
 										<div class="col-md-4 col-sm-4 col-xs-4 centro-centro">
 											<nav class="solutech_menu main-search-menu">					
 												<ul class="sub-menu">
-													<li class="menu-item-has-children">
-														<a href="#">Inicio</a>
-														<ul class="sub-menu">
-															<li><a href="inicio">Home Page</a></li>
-															<li><a href="index-2.html">Landing Page</a></li>
-															<li><a href="index-3.html">Home Banner Page</a></li>
-														</ul>
-													</li>
-													<li><a href="nosotros.php">Nosotros</a></li>
-													<li class="menu-item-has-children">
-														<a href="#">Servicios</a>
-														<ul class="sub-menu">
-															<li><a href="home-security.html">Home Security</a></li>
-															<li><a href="software-development.html">Software Development</a></li>
-															<li><a href="installation.html">Installation CCTV</a></li>
-															<li><a href="service-details.html">Service Details</a></li>
-														</ul>
-													</li>
+													<li><a href="inicio">Inicio</a></li>
+													<li><a href="nosotros">Nosotros</a></li>
+
 												</ul>
 											</nav>  
 										</div>								
@@ -73,32 +58,9 @@
 										<div class="col-md-4 col-sm-4 col-xs-4 centro-centro">
 											<nav class="solutech_menu main-search-menu">					
 												<ul class="sub-menu">
-													<li class="menu-item-has-children">
-														<a href="#">Nuestras Marcas</a>
-														<ul class="sub-menu">
-															<li><a href="pricing-plan.html">Pricing Plan</a></li>
-															<li><a href="why-choose-us.html">Why Choose Us</a></li>	
-															<li><a href="faq.html">FAQ’S</a></li>
-															<li class="menu-item-has-children">
-																<a href="#">Portfolio</a>
-																<ul class="sub-menu">
-																	<li><a href="portfolio-2column.html">Portfolio 2Column</a></li>
-																	<li><a href="portfolio-3column.html">Portfolio 3Column</a></li>
-																	<li><a href="portfolio-4column.html">Portfolio 4Column</a></li>
-																</ul>
-															</li>
-															<li><a href="team.html">Team</a></li>
-															<li><a href="testimonial.html">Testimonial</a></li>
-														</ul>
-													</li>
-													<li class="menu-item-has-children">
-														<a href="#">Blog</a>
-														<ul class="sub-menu">
-															<li><a href="blog.html">Blog Grid</a></li>
-															<li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-															<li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
-														</ul>
-													</li>
+													<li><a href="marcas">Nuestras Marcas</a></li>
+
+
 													<li><a href="contacto">Contactanos</a></li>
 												</ul>
 											</nav>

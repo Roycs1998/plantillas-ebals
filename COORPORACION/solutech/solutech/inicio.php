@@ -10,7 +10,7 @@
 	<div class="witr_swiper_area">
 		<div class="swiper-container witr_active_id5">
 			<div class="swiper-wrapper">
-				<div class="swiper-slide witr_swiper_height" style="background-image: url(assets/images/slider-3.png);">
+				<div class="swiper-slide witr_swiper_height" style="background-image: url(assets/images/imagen_slider.jpg);">
 					<div class="witr_sw_text_area text-left">
 						<div class="witr_swiper_content">
 							<h2>Servicios<span> Para tu empresa</span></h2>
@@ -25,11 +25,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="slider_vd_icon">
-							<div class="slider_vd_icon_inner">
-								<a class="tx_svd_icon recpwit video-popup video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="fas fa-play"></i></a>
-							</div>
-						</div>
+
 					</div>
 				</div>
 				<div class="swiper-slide witr_swiper_height" style="background-image: url(assets/images/slider-3.png);">
@@ -47,11 +43,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="slider_vd_icon">
-							<div class="slider_vd_icon_inner">
-								<a class="tx_svd_icon recpwit video-popup video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="fas fa-play"></i></a>
-							</div>
-						</div>
+
 					</div>
 				</div>
 			</div>

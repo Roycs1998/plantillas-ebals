@@ -23,7 +23,7 @@
 <div class="witr_swiper_area swiper2 ebals-fondo">
 	<div class="swiper-container witr_active_id6">
 		<div class="swiper-wrapper">
-			<div class="swiper-slide d1 t1 m1 witr_swiper_height swiper-slide-active" style="background-image: url(assets/images/p3.jpg);">
+			<div class="swiper-slide d1 t1 m1 witr_swiper_height swiper-slide-active" style="background-image: url(assets/images/marca_ebals.jpg);">
 				<div class="witr_sw_text_area text-left">
 					<div class="witr_swiper_content ">
 						<h2>EBALS</h2>
@@ -57,7 +57,7 @@
 <div class="witr_swiper_area swiper2 zuimedic-fondo">
 	<div class="swiper-container witr_active_id6">
 		<div class="swiper-wrapper">
-			<div class="swiper-slide d1 t1 m1 witr_swiper_height swiper-slide-active" style="background-image: url(assets/images/p3.jpg);">
+			<div class="swiper-slide d1 t1 m1 witr_swiper_height swiper-slide-active" style="background-image: url(assets/images/marca_zuimedic.jpeg);">
 				<div class="witr_sw_text_area text-right">
 					<div class="witr_swiper_content ">
 						<h2>ZUI MEDIC</h2>
@@ -90,7 +90,7 @@
 <div class="witr_swiper_area swiper2 dprotec-fondo">
 	<div class="swiper-container witr_active_id6">
 		<div class="swiper-wrapper">
-			<div class="swiper-slide d1 t1 m1 witr_swiper_height swiper-slide-active" style="background-image: url(assets/images/p3.jpg);">
+			<div class="swiper-slide d1 t1 m1 witr_swiper_height swiper-slide-active" style="background-image: url(assets/images/marca_dprotec.jpg);">
 				<div class="witr_sw_text_area text-left">
 					<div class="witr_swiper_content ">
 						<h2>DPROTEC</h2>
@@ -124,7 +124,7 @@
 <div class="witr_swiper_area swiper2 daelz-fondo">
 	<div class="swiper-container witr_active_id6">
 		<div class="swiper-wrapper">
-			<div class="swiper-slide d1 t1 m1 witr_swiper_height swiper-slide-active" style="background-image: url(assets/images/p3.jpg);">
+			<div class="swiper-slide d1 t1 m1 witr_swiper_height swiper-slide-active" style="background-image: url(assets/images/marca_daelz.jpg);">
 				<div class="witr_sw_text_area text-right">
 					<div class="witr_swiper_content ">
 						<h2>DAELZ</h2>

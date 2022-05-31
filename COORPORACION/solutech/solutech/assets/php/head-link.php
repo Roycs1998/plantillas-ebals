@@ -5,6 +5,7 @@ $contacto = "";
 $nosotros = "";
 $proyectos = "";
 $servicios = "";
+$marcas = "";
 
 if ($ubicacion_actual == "inicio.php") {
   $inicio = "active";
@@ -32,6 +33,13 @@ if ($ubicacion_actual == "servicios.php") {
   $pagina = "Servicios";
   
 }
+if ($ubicacion_actual == "marcas.php") {
+  $marcas = "active";
+  $titulo = "Nuestras marcas - EBALS";
+  $pagina = "Marcas";
+  
+}
+
 ?>
 <head>
 		<meta charset="UTF-8">
