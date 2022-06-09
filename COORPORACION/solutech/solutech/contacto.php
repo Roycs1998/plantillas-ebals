@@ -28,7 +28,7 @@
 				<div class="col-lg-12">
 					<div class="witr_section_title">
 						<div class="witr_section_title_inner text-left">
-							<h3>A solo un CLIC</h3>		
+							<h3>Cotiza aquí</h3>		
 							<p>Escríbenos y te responderemos en el menor tiempo posible.</p>		
 						</div>
 					</div>

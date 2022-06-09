@@ -10,6 +10,25 @@
 	<div class="witr_swiper_area">
 		<div class="swiper-container witr_active_id5">
 			<div class="swiper-wrapper">
+				<div class="swiper-slide witr_swiper_height" style="background-image: url(assets/images/carrusel-1.jpg);">
+					<div class="witr_sw_text_area text-left">
+						<div class="witr_swiper_content">
+							<h3><span>ACOMPAÑAMIENTO 360°</span></h3>
+							<h2>EN SU CRECIMIENTO  EMPRESARIAL</h2>
+							
+							<!-- btn gradient style -->
+							<div class="slider_btn">
+								<div class="witr_btn_style">
+								<div class="witr_btn_sinner">
+										<a class="witr_btn" href="marcas"> nuestras marcas</a>
+										<a class="witr_btn active recpwit" href="contacto">Contactanos</a>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
 				<div class="swiper-slide witr_swiper_height" style="background-image: url(assets/images/imagen_slider.jpg);">
 					<div class="witr_sw_text_area text-left">
 						<div class="witr_swiper_content">
@@ -19,8 +38,8 @@
 							<div class="slider_btn">
 								<div class="witr_btn_style">
 									<div class="witr_btn_sinner">
-										<a class="witr_btn" href="#">Descubre más</a>
-										<a class="witr_btn active recpwit" href="#">Contactanos</a>
+										<a class="witr_btn" href="marcas"> nuestras marcas</a>
+										<a class="witr_btn active recpwit" href="contacto">Contactanos</a>
 									</div>
 								</div>
 							</div>
@@ -28,24 +47,7 @@
 
 					</div>
 				</div>
-				<div class="swiper-slide witr_swiper_height" style="background-image: url(assets/images/slider-3.png);">
-					<div class="witr_sw_text_area text-left">
-						<div class="witr_swiper_content">
-							<h2>High Quality  For</h2>
-							<h3>Your  <span> Business</span></h3>
-							<!-- btn gradient style -->
-							<div class="slider_btn">
-								<div class="witr_btn_style">
-									<div class="witr_btn_sinner">
-										<a class="witr_btn" href="#">DISCOVER MORE</a>
-										<a class="witr_btn active recpwit" href="#">CONTACT MORE</a>
-									</div>
-								</div>
-							</div>
-						</div>
 
-					</div>
-				</div>
 			</div>
 			<!-- Add Pagination -->
 			<div class="swiper-scrollbar"></div>
